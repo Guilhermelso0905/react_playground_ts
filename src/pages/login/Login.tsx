@@ -10,8 +10,8 @@ function Login() {
       {
         isLogged ?(
           <Home 
-          titulo="teste" 
-          texto="snidoahirhnoiehnionreaioenr" 
+          titulo="Bem Vinde" 
+          texto="Essa é a pagina inicial" 
           Logout={() => setisLogged(false)}
           />
 
